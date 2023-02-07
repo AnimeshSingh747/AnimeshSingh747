@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Animesh Singh</h1>
-<h3 align="center">Android and Open Source Enthusiast</h3>
+<h3 align="center">Android and Open Source Fanatic</h3>
 <p align="left"> <a href="https://twitter.com/AnimeshSingh747" target="blank"><img src="https://img.shields.io/twitter/follow/AnimeshSingh747?logo=twitter&style=for-the-badge" alt="animesh" /></a> </p>
 </br>
 </br>
